@@ -1,6 +1,6 @@
 public class Main {
     public static void main() {
-        int a = 0;
+        int a = 5;
         int r = 1;
         for (int i  = 1; i <= a; i++) {
             r *= i;
